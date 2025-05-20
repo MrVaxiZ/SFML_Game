@@ -1,0 +1,3 @@
+/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles/SFML_PlayGround.dir
+/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles/edit_cache.dir
+/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/vaxiz/Dev/cpp/SFML_PlayGround/build",
+  "command": "/usr/bin/c++  -I/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp -I/home/vaxiz/Dev/cpp/SFML_PlayGround/headers -std=gnu++17 -o CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o -c /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Log.cpp",
+  "file": "/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Log.cpp",
+  "output": "CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o"
+},
+{
+  "directory": "/home/vaxiz/Dev/cpp/SFML_PlayGround/build",
+  "command": "/usr/bin/c++  -I/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp -I/home/vaxiz/Dev/cpp/SFML_PlayGround/headers -std=gnu++17 -o CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.o -c /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Player.cpp",
+  "file": "/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Player.cpp",
+  "output": "CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.o"
+},
+{
+  "directory": "/home/vaxiz/Dev/cpp/SFML_PlayGround/build",
+  "command": "/usr/bin/c++  -I/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp -I/home/vaxiz/Dev/cpp/SFML_PlayGround/headers -std=gnu++17 -o CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.o -c /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/TextureHandler.cpp",
+  "file": "/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/TextureHandler.cpp",
+  "output": "CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.o"
+},
+{
+  "directory": "/home/vaxiz/Dev/cpp/SFML_PlayGround/build",
+  "command": "/usr/bin/c++  -I/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp -I/home/vaxiz/Dev/cpp/SFML_PlayGround/headers -std=gnu++17 -o CMakeFiles/SFML_PlayGround.dir/cpp/World.cpp.o -c /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/World.cpp",
+  "file": "/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/World.cpp",
+  "output": "CMakeFiles/SFML_PlayGround.dir/cpp/World.cpp.o"
+},
+{
+  "directory": "/home/vaxiz/Dev/cpp/SFML_PlayGround/build",
+  "command": "/usr/bin/c++  -I/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp -I/home/vaxiz/Dev/cpp/SFML_PlayGround/headers -std=gnu++17 -o CMakeFiles/SFML_PlayGround.dir/cpp/main.cpp.o -c /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/main.cpp",
+  "file": "/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/main.cpp",
+  "output": "CMakeFiles/SFML_PlayGround.dir/cpp/main.cpp.o"
+}
+]
