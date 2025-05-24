@@ -81,12 +81,12 @@ clean: CMakeFiles/SFML_PlayGround.dir/clean
 CMakeFiles/SFML_PlayGround.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML_PlayGround.dir/build.make CMakeFiles/SFML_PlayGround.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML_PlayGround.dir/build.make CMakeFiles/SFML_PlayGround.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target SFML_PlayGround"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target SFML_PlayGround"
 .PHONY : CMakeFiles/SFML_PlayGround.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SFML_PlayGround.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/SFML_PlayGround.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles 0
 .PHONY : CMakeFiles/SFML_PlayGround.dir/rule

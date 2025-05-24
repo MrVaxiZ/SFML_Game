@@ -7,6 +7,9 @@ void Player::move(const float& deltaTime)
 	// Reset horizontal velocity every frame
 	velocity.x = 0.f;
 
+	// Handle shooting
+	
+
 	// Handle horizontal input
 	if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::A)) {
 		velocity.x = -speed;

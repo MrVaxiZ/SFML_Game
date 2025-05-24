@@ -68,5 +68,15 @@
         "cinttypes": "cpp",
         "typeinfo": "cpp",
         "variant": "cpp"
-    }
+    },
+    "clangd.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+    "clangd.arguments": [
+        "--clang-tidy-checks=-*",
+        "--header-insertion=never",
+        "--clang-tidy=false",
+        "--compile-args=-Wno-unused-include-directive",
+        "--cross-file-rename=true",
+        "--all-scopes-completion",
+        "--background-index"
+    ]
 }

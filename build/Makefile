@@ -129,6 +129,30 @@ SFML_PlayGround/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML_PlayGround.dir/build.make CMakeFiles/SFML_PlayGround.dir/build
 .PHONY : SFML_PlayGround/fast
 
+cpp/Bullet.o: cpp/Bullet.cpp.o
+.PHONY : cpp/Bullet.o
+
+# target to build an object file
+cpp/Bullet.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML_PlayGround.dir/build.make CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o
+.PHONY : cpp/Bullet.cpp.o
+
+cpp/Bullet.i: cpp/Bullet.cpp.i
+.PHONY : cpp/Bullet.i
+
+# target to preprocess a source file
+cpp/Bullet.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML_PlayGround.dir/build.make CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.i
+.PHONY : cpp/Bullet.cpp.i
+
+cpp/Bullet.s: cpp/Bullet.cpp.s
+.PHONY : cpp/Bullet.s
+
+# target to generate assembly for a file
+cpp/Bullet.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFML_PlayGround.dir/build.make CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.s
+.PHONY : cpp/Bullet.cpp.s
+
 cpp/Log.o: cpp/Log.cpp.o
 .PHONY : cpp/Log.o
 
@@ -258,6 +282,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... SFML_PlayGround"
+	@echo "... cpp/Bullet.o"
+	@echo "... cpp/Bullet.i"
+	@echo "... cpp/Bullet.s"
 	@echo "... cpp/Log.o"
 	@echo "... cpp/Log.i"
 	@echo "... cpp/Log.s"

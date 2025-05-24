@@ -1,6 +1,12 @@
 [
 {
   "directory": "/home/vaxiz/Dev/cpp/SFML_PlayGround/build",
+  "command": "/usr/bin/c++  -I/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp -I/home/vaxiz/Dev/cpp/SFML_PlayGround/headers -std=gnu++17 -o CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o -c /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Bullet.cpp",
+  "file": "/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Bullet.cpp",
+  "output": "CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o"
+},
+{
+  "directory": "/home/vaxiz/Dev/cpp/SFML_PlayGround/build",
   "command": "/usr/bin/c++  -I/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp -I/home/vaxiz/Dev/cpp/SFML_PlayGround/headers -std=gnu++17 -o CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o -c /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Log.cpp",
   "file": "/home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Log.cpp",
   "output": "CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o"
