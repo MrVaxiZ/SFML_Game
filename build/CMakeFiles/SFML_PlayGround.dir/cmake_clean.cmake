@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o"
+  "CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o.d"
   "CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o"
   "CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o.d"
   "CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.o"

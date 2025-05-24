@@ -10,11 +10,10 @@
 #include "TextureHandler.h"
 #include "Flags.h"
 #include "World.h"
-#include "Log.h"
-#include "HelpingFunctions.h" // toString()
+#include "Bullet.h"
 
 class Player
-{
+{ 
 private :
 	sf::Sprite sprite{ TextureHandler::getTexture(TextureID::Alex_still_sheet) }; // TODO :: Make one sheet for one skin that will contain all poses
 	//std::array<sf::Texture, 9> playerSpriteTextures; // Possbily some skins will have more or less in future but for now we set it on 9 = {1 shooting to left, 1 shooting to right, 2 run left, 2 run right, 1 jump asc, 1 jump desc, 1 still}

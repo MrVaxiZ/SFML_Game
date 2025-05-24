@@ -69,10 +69,24 @@ include CMakeFiles/SFML_PlayGround.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/SFML_PlayGround.dir/flags.make
 
+CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o: CMakeFiles/SFML_PlayGround.dir/flags.make
+CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o: /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Bullet.cpp
+CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o: CMakeFiles/SFML_PlayGround.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o -MF CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o.d -o CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o -c /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Bullet.cpp
+
+CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Bullet.cpp > CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.i
+
+CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Bullet.cpp -o CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.s
+
 CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o: CMakeFiles/SFML_PlayGround.dir/flags.make
 CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o: /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Log.cpp
 CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o: CMakeFiles/SFML_PlayGround.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o -MF CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o.d -o CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o -c /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Log.cpp
 
 CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.i: cmake_force
@@ -86,7 +100,7 @@ CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.s: cmake_force
 CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.o: CMakeFiles/SFML_PlayGround.dir/flags.make
 CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.o: /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Player.cpp
 CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.o: CMakeFiles/SFML_PlayGround.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.o -MF CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.o.d -o CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.o -c /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/Player.cpp
 
 CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.i: cmake_force
@@ -100,7 +114,7 @@ CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.s: cmake_force
 CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.o: CMakeFiles/SFML_PlayGround.dir/flags.make
 CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.o: /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/TextureHandler.cpp
 CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.o: CMakeFiles/SFML_PlayGround.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.o -MF CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.o.d -o CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.o -c /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/TextureHandler.cpp
 
 CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.i: cmake_force
@@ -114,7 +128,7 @@ CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.s: cmake_force
 CMakeFiles/SFML_PlayGround.dir/cpp/World.cpp.o: CMakeFiles/SFML_PlayGround.dir/flags.make
 CMakeFiles/SFML_PlayGround.dir/cpp/World.cpp.o: /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/World.cpp
 CMakeFiles/SFML_PlayGround.dir/cpp/World.cpp.o: CMakeFiles/SFML_PlayGround.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SFML_PlayGround.dir/cpp/World.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SFML_PlayGround.dir/cpp/World.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SFML_PlayGround.dir/cpp/World.cpp.o -MF CMakeFiles/SFML_PlayGround.dir/cpp/World.cpp.o.d -o CMakeFiles/SFML_PlayGround.dir/cpp/World.cpp.o -c /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/World.cpp
 
 CMakeFiles/SFML_PlayGround.dir/cpp/World.cpp.i: cmake_force
@@ -128,7 +142,7 @@ CMakeFiles/SFML_PlayGround.dir/cpp/World.cpp.s: cmake_force
 CMakeFiles/SFML_PlayGround.dir/cpp/main.cpp.o: CMakeFiles/SFML_PlayGround.dir/flags.make
 CMakeFiles/SFML_PlayGround.dir/cpp/main.cpp.o: /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/main.cpp
 CMakeFiles/SFML_PlayGround.dir/cpp/main.cpp.o: CMakeFiles/SFML_PlayGround.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SFML_PlayGround.dir/cpp/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SFML_PlayGround.dir/cpp/main.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SFML_PlayGround.dir/cpp/main.cpp.o -MF CMakeFiles/SFML_PlayGround.dir/cpp/main.cpp.o.d -o CMakeFiles/SFML_PlayGround.dir/cpp/main.cpp.o -c /home/vaxiz/Dev/cpp/SFML_PlayGround/cpp/main.cpp
 
 CMakeFiles/SFML_PlayGround.dir/cpp/main.cpp.i: cmake_force
@@ -141,6 +155,7 @@ CMakeFiles/SFML_PlayGround.dir/cpp/main.cpp.s: cmake_force
 
 # Object files for target SFML_PlayGround
 SFML_PlayGround_OBJECTS = \
+"CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o" \
 "CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o" \
 "CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.o" \
 "CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.o" \
@@ -150,6 +165,7 @@ SFML_PlayGround_OBJECTS = \
 # External object files for target SFML_PlayGround
 SFML_PlayGround_EXTERNAL_OBJECTS =
 
+SFML_PlayGround: CMakeFiles/SFML_PlayGround.dir/cpp/Bullet.cpp.o
 SFML_PlayGround: CMakeFiles/SFML_PlayGround.dir/cpp/Log.cpp.o
 SFML_PlayGround: CMakeFiles/SFML_PlayGround.dir/cpp/Player.cpp.o
 SFML_PlayGround: CMakeFiles/SFML_PlayGround.dir/cpp/TextureHandler.cpp.o
@@ -157,7 +173,7 @@ SFML_PlayGround: CMakeFiles/SFML_PlayGround.dir/cpp/World.cpp.o
 SFML_PlayGround: CMakeFiles/SFML_PlayGround.dir/cpp/main.cpp.o
 SFML_PlayGround: CMakeFiles/SFML_PlayGround.dir/build.make
 SFML_PlayGround: CMakeFiles/SFML_PlayGround.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable SFML_PlayGround"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/vaxiz/Dev/cpp/SFML_PlayGround/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable SFML_PlayGround"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SFML_PlayGround.dir/link.txt --verbose=$(VERBOSE)
 	/usr/bin/cmake -E copy_directory /home/vaxiz/Dev/cpp/SFML_PlayGround/assets /home/vaxiz/Dev/cpp/SFML_PlayGround/build/assets
 
